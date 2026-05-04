@@ -27,10 +27,8 @@ global-tech-layoffs-analysis/
 - global_tech_analysis.py
 - README
 - requirements.txt
-data/
-- layoffs_dataset.csv
-outputs/
-- charts
+- data/layoffs_dataset.csv
+- outputs/charts
 
 # key insights
 - The datset shows how layoffs changed across different years in different companies from different countries
