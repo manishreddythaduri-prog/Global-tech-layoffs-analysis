@@ -13,7 +13,8 @@ This project is just created as a portfolio project for showcase my skills.
 - Which Year has highest layoffs
 - summarize business insights
 
-# The dataset contains information about global technology layoffs, datset columns include :
+# The dataset contains 
+- information about global technology layoffs, datset columns include :
 'Company', 'Location_HQ', 'Region', 'USState', 'Country', 'Continent', 'Laid_Off', 'Date_layoffs', 'Percentage', 'Company_Size_before_Layoffs', 'Company_Size_after_layoffs', 'Industry', 'Stage', 'Money_Raised_in__mil', 'Year'.
 
 Dataset resource : Kaggle/Ulrike Herold/Tech Layoffs 202-25
@@ -23,10 +24,9 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Visual studio code
 
 # Project structure 
 global-tech-layoffs-analysis/
-- global_layoffs_analysis.py
+- global_tech_analysis.py
 - README
 - requirements.txt
-- .gitignore
 data/
 - layoffs_dataset.csv
 outputs/
