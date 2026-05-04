@@ -34,4 +34,5 @@ global-tech-layoffs-analysis/
 - The datset shows how layoffs changed across different years in different companies from different countries
 - Some companies contributed more heavily to total layoffs than others
 - Layoffs were concentrated in specific countries, companoies and industries
-- Layoffs by year helps to understand in which year more layoffs happened and monthly layoffs helps to identify peak layoffs period in a year. 
+- Layoffs by year helps to understand in which year more layoffs happened
+- Monthly layoffs helps to identify peak layoffs period in a year. 
