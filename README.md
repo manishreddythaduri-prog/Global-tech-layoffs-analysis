@@ -40,3 +40,7 @@ global-tech-layoffs-analysis/
 # Final Conclusion:
 
 The Yearly trend shows that steep increase in layoffs after 2021, with highest levels observed in 2025. However, the presence of change in techlayoffs such as decrease in 2024. This indicates layoffs are not steadily increasing but occur in different cycles. The pattern from the outputs, combined with dominance of large post IPO companies and concentration in specific sectors and regions suggests that layoffs represent a post pandemic correction phase, not a lasting downturn in the technology industry.
+
+The overall results indicate that what has been witnessed by analysis just been a correction stage for post expansion when the organizations have been aggressively recruiting and not structural collapse in the technology industry.
+
+
