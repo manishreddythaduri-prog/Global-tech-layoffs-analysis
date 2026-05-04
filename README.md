@@ -36,3 +36,7 @@ global-tech-layoffs-analysis/
 - Layoffs were concentrated in specific countries, companoies and industries
 - Layoffs by year helps to understand in which year more layoffs happened
 - Monthly layoffs helps to identify peak layoffs period in a year. 
+
+# Final Conclusion:
+
+The Yearly trend shows that steep increase in layoffs after 2021, with highest levels observed in 2025. However, the presence of change in techlayoffs such as decrease in 2024. This indicates layoffs are not steadily increasing but occur in different cycles. The pattern from the outputs, combined with dominance of large post IPO companies and concentration in specific sectors and regions suggests that layoffs represent a post pandemic correction phase, not a lasting downturn in the technology industry.
